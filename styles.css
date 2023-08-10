@@ -1,0 +1,151 @@
+#title{
+     font-family: 'Dancing Script', cursive;
+}
+#address{
+    font-size: 50%;
+}
+#title1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 150%;
+}
+#meals{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30%;
+}
+#two{
+    background-color: gold;
+}
+#input{
+    font-size: 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#two>div{
+    width: 50%;
+}
+#button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5%;
+}
+#white{
+    background-color: white;
+    padding: 10px;
+}
+.card{
+    font-size: 20%;
+    margin: 2%;
+}
+.card p+p{
+    font-size: 200%;
+}
+h5{
+    font-size: 80%;
+    color: aqua;
+}
+.card p{
+    font-weight: bold;
+    font-size: 400%;
+}
+#con{
+    box-shadow: rgba(254, 202, 59, 0.56) 0px 22px 70px 4px;
+    padding: 20px;
+}
+#one{
+    text-align: left;
+    margin-top: 3%;
+}
+#one>h1{
+    font-size: 120%;
+}
+#one>p{
+    font-size: 70%;
+}
+#one>button{
+    font-size: 60%;
+}
+#margin,#margin2{
+    margin-bottom: 5%;
+}
+#margin p,#margin2 p{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+#margin a,#margin2 a{
+    padding: 10%;
+    font-size: 40%;
+}
+#black{
+    background-color: black;
+    color: white;
+}
+#extra{
+    margin-top: 10%;
+}
+#extra h1{
+    font-size: 50%;
+    width: 20%;
+}
+#extra p{
+    font-size: 50%;
+    margin: 2%;
+    width: 20%;
+}
+#extra div{
+    padding: 0;
+}
+#extra1{
+    margin-left: 10%;
+    text-align: left;
+    margin-top: 10%;
+    margin-bottom: 2%;
+    font-size: 50%;
+}
+#mail{
+    text-align: left;
+    font-size: 30%;
+    margin: 10%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+#input{
+    width: 30%;
+    height: 10%;
+}
+#box{
+    margin-top: 0;
+    margin-left: 10%;
+    text-align: left;
+    width: 50%;
+    height: 10%;
+    font-size: 50%;
+    background-color: rgba(255, 255, 255, 0.279);
+    padding: 2%;
+    border-radius: 5px;
+}
+#sub{
+    margin-top: 0;
+    margin-left: 10%;
+    text-align: left;
+    width: 25%;
+    height: 10%;
+    font-size: 50%;
+    background-color: gold;
+    padding: 2%;
+    border-radius: 5px;
+}
+#end{
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+#end+div{
+    text-align: left;
+    font-size: 50%;
+    display: inline;
+    width: 50%;
+    margin-bottom: 3%;
+}
+#end+div+div{
+    width: 50%;
+    display: inline;
+    text-align: right;
+    font-size: 50%;
+}
